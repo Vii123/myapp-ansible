@@ -1,2 +1,2 @@
 [webservers]
-35.200.133.229 ansible_ssh_pass=vikas123 ansible_ssh_user=vikas 
+65.0.76.101 ansible_ssh_pass=vky123 ansible_ssh_user=vky 
