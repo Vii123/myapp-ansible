@@ -1,2 +1,2 @@
 [webservers]
-35.200.133.229 ansible_user=vickey_gowdar 
+35.200.133.229 ansible_ssh_user=vickey_gowdar 
