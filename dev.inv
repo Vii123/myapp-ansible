@@ -1,2 +1,2 @@
 [webservers]
-vky@35.200.133.229 
+10.168.0.4 ansible_ssh_pass=vik123 ansible_ssh_user=vik  
